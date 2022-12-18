@@ -1,0 +1,6 @@
+C:\Users\sina\Desktop\SingletonSample\SingletonSample\bin\Debug\SingletonSample.exe.config
+C:\Users\sina\Desktop\SingletonSample\SingletonSample\bin\Debug\SingletonSample.exe
+C:\Users\sina\Desktop\SingletonSample\SingletonSample\bin\Debug\SingletonSample.pdb
+C:\Users\sina\Desktop\SingletonSample\SingletonSample\obj\Debug\SingletonSample.csprojResolveAssemblyReference.cache
+C:\Users\sina\Desktop\SingletonSample\SingletonSample\obj\Debug\SingletonSample.exe
+C:\Users\sina\Desktop\SingletonSample\SingletonSample\obj\Debug\SingletonSample.pdb
